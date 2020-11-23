@@ -1,0 +1,2 @@
+# golang-bootstrap
+bootstrap golang
