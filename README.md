@@ -1,2 +1,2 @@
-# golang-bootstrap
-bootstrap golang
+### golang-bootstrap
+To exercise the basics
